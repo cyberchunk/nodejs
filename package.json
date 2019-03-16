@@ -1,0 +1,29 @@
+{
+    "author": "MGP",
+    "name": "Pradeep",
+    "description": "Express with NodeJS",
+    "version": "0.0.0",
+    "scripts": {
+        "start": "node script.js"
+    },
+    "engines": {
+        "node": "~0.4.12"
+    },
+    "dependacies": {
+        "connect_flash": "^0.1.1",
+        "cookie-parser": "^1.4.3",
+        "express": "^4.16.4",
+        "jade": "^0.20.3",
+        "req-flash": "0.0.3"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "connect": "^3.6.6",
+        "connect-flash": "^0.1.1",
+        "cookie-parser": "^1.4.4",
+        "express": "^3.21.2",
+        "express-session": "^1.15.6",
+        "jade": "^1.11.0"
+    }
+}
